@@ -4,7 +4,9 @@ This repository contains the code for a stylish login page with glowing buttons 
 
 ## Preview
 
-![Login Page Preview](preview.png)
+![Login Page Preview] 
+
+Screenshot file attached
 
 ## Features
 
