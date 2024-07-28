@@ -26,7 +26,7 @@ This repository contains the code for a stylish login page with glowing buttons 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/glowing-login-page.git
+    git clone https://github.com/Mohit-crypt/glowing-login-page.git
     ```
 2. Navigate to the project directory:
     ```bash
